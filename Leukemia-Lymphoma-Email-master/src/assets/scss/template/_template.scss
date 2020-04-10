@@ -1,0 +1,139 @@
+html,
+body,
+.body {
+  background: #e4e5ea;
+  background-color: #e4e5ea;
+}
+
+/////////////////////////////////////header//////////////////////////////////////////////////////
+
+.header {
+  background: #ffffff;
+  background-color: #ffffff;
+
+  .columns {
+    padding-top: 20px;
+    padding-bottom: 10px;
+
+    .logo {
+      width: 100%;
+    }
+  }
+}
+
+/////////////////////////////////////start//////////////////////////////////////////////////////
+
+.start {
+  background: #ffffff;
+  background-color: #ffffff;
+
+  .indent {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+  }
+
+  p {
+    color: #000000;
+    font-weight: 400;
+    font-size: 16px;
+  }
+}
+/////////////////////////////////////img//////////////////////////////////////////////////////
+
+.img {
+  background: #ffffff;
+  background-color: #ffffff;
+
+  .asco {
+    width: 450px !important;
+    margin: 0 auto;
+    padding-bottom: 5px;
+  }
+}
+
+/////////////////////////////////////body//////////////////////////////////////////////////////
+
+.body {
+  background: #ffffff;
+  background-color: #ffffff;
+
+  .indent {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+  }
+
+  p {
+    color: #000000;
+    font-weight: 400;
+    font-size: 16px;
+
+    .link {
+      color: #0000ee;
+      text-decoration: underline;
+    }
+  }
+}
+
+/////////////////////////////////////end//////////////////////////////////////////////////////
+
+.end {
+  background: #ffffff;
+  background-color: #ffffff;
+
+  .indent {
+    padding-left: 50px !important;
+  }
+
+  .button {
+    width: 120px;
+    padding-top: 14px;
+    padding-bottom: 24px;
+  }
+
+  .sign {
+    width: 200px;
+    padding-bottom: 10px;
+  }
+}
+
+/////////////////////////////////////social//////////////////////////////////////////////////////
+
+.social {
+  background: #cc0000;
+  background-color: #cc0000;
+
+  .columns {
+    .follow {
+      width: 280px;
+      padding-top: 20px;
+      padding-bottom: 4px;
+    }
+  }
+}
+
+/////////////////////////////////////footer//////////////////////////////////////////////////////
+
+.footer {
+  background: #252525;
+  background-color: #252525;
+
+  .columns {
+    p {
+      font-weight: 400;
+      color: #ffffff;
+      font-size: 11px;
+    }
+
+    .menu-divider {
+      display: inline-block;
+      height: 8px;
+      background: #cc0000;
+      background-color: #cc0000;
+    }
+
+    .email {
+      color: #0000ee;
+      text-decoration: underline;
+    }
+  }
+}
